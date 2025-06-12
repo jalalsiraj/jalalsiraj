@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jalaliya Siraj !
 
 🎯 **Software Developer** | 💻 **Full-Stack Developer**  
-🔧 Skilled in **Node.js**, **Angular**, **Exoress**, **GraphQl**, **HTML/CSS**, **Java**, **Vs Code**
+🔧 Skilled in **Node.js**, **Angular**, **Express**, **GraphQl**, **HTML/CSS**, **Java**, **Vs Code**
 
 ---
 
